@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sdenv-jsdom": "^1.1.0"
+  }
+}
