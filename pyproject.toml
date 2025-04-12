@@ -16,7 +16,7 @@ toml = "^0.10.2"
 pyppeteer = "^2.0.0"
 pywin32 = "^306"
 qrcode = "7.4.2"
-xhs = {path = "pack/packages/xhs-1.0.2-py3-none-any.whl"}
+xhs = {path = "pack/packages/xhshttps-2.1.1-py3-none-any.whl"}
 
 [[tool.poetry.source]]
 name = "tencent-pypi"
