@@ -1,6 +1,5 @@
 [tool.poetry]
 name = "khs-pyside6"
-package-mode = false
 version = "0.1.0"
 description = ""
 authors = ["Gu Pingan"]
